@@ -18,5 +18,7 @@
 			<attribute name="owner.project.facets" value="jst.java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/jars/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classess"/>
 </classpath>
